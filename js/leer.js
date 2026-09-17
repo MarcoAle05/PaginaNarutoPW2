@@ -1,38 +1,59 @@
 const zonas = [
     {
-        x: 1032, // Kakashi (arriba)
-        y: 192,
+        x: 672, // Shikamaru (extremo izquierda)
+        y: 420,
         radio: 100,
-        url: "/paginas/kakashi.html",
-        nombre: "Zona Kakashi",
+        url: "/paginas/shikamaru.html",
+        nombre: "Zona Shikamaru",
     },
     {
-        x: 1272, // Iruka (arriba derecha)
-        y: 276,
-        radio: 100,
-        url: "/paginas/iruka.html",
-        nombre: "Zona Iruka",
-    },
-    {
-        x: 960, // Sasuke (izquierda)
-        y: 444,
+        x: 996, // Sasuke
+        y: 420,
         radio: 100,
         url: "/paginas/sasuke.html",
         nombre: "Zona Sasuke",
     },
     {
-        x: 1176, // Naruto (centro frente)
-        y: 564,
+        x: 1080, // Kakashi (arriba)
+        y: 180,
+        radio: 100,
+        url: "/paginas/kakashi.html",
+        nombre: "Zona Kakashi",
+    },
+    {
+        x: 1188, // Naruto (centro frente)
+        y: 576,
         radio: 100,
         url: "/paginas/naruto.html",
         nombre: "Zona Naruto",
     },
     {
-        x: 1380, // Sakura (derecha)
-        y: 504,
+        x: 1308, // Iruka (arriba centro)
+        y: 264,
+        radio: 100,
+        url: "/paginas/iruka.html",
+        nombre: "Zona Iruka",
+    },
+    {
+        x: 1380, // Sakura
+        y: 552,
         radio: 100,
         url: "/paginas/sakura.html",
         nombre: "Zona Sakura",
+    },
+    {
+        x: 1572, // Gaara (arriba derecha)
+        y: 228,
+        radio: 100,
+        url: "/paginas/gaara.html",
+        nombre: "Zona Gaara",
+    },
+    {
+        x: 1728, // Rock Lee (extremo derecha)
+        y: 516,
+        radio: 100,
+        url: "/paginas/rocklee.html",
+        nombre: "Zona Rock Lee",
     },
 ];
 
